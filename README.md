@@ -24,7 +24,7 @@ git clone https://github.com/cattus09/taller_2_AREP.git
 Para ejecutar la aplicación, usamos el siguiente comando en la terminal:
 
 ```bash
-mvn exec:java '-Dexec.mainClass=edu.escuelaing.arep.app.HttpServer'
+mvn exec:java -Dexec.mainClass=edu.escuelaing.arep.app.HttpServer
 
 ```
 
